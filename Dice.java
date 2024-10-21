@@ -1,4 +1,4 @@
-package assignment2;
+package dicetester;
 public class Dice {
     // Declare two private Die objects
     private Die die1;
