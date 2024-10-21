@@ -1,4 +1,4 @@
-package assignment2;
+package dicetester;
 
 
 public class ruiz_sammuel {
